@@ -1,5 +1,16 @@
 # Changelog 
 
+## Release (2024-06-16)
+
+ember-primitives 0.21.0 (minor)
+
+#### :rocket: Enhancement
+* `docs-app`, `ember-primitives`, `test-app`
+  * [#325](https://github.com/universal-ember/ember-primitives/pull/325) Upgrade form-data-utils ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
 ## Release (2024-06-06)
 
 ember-primitives 0.20.0 (minor)
